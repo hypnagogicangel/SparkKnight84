@@ -1,9 +1,5 @@
 Hola! I'm a person.
 <p title="veeeeeeeeeeeeeeee">I do code;</p>
-
-<script>
-alert("hola")
-</script>
 <!--
 **SparkKnight84/SparkKnight84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
